@@ -1,0 +1,41 @@
+#figure{
+    border-radius: 0px 50px;
+    background: #72510f;
+    padding: 20px; 
+    width: 130px;
+    height: 90px; 
+    position: absolute;
+    left: 40%;
+    top: 0px;
+    z-index: -1;
+}
+
+.fa-solid{
+    position: absolute;
+    top: 45px;
+    left: 44%;
+    font-size: 60px;
+
+}
+
+.H1{
+    position: absolute;
+    top: 140px;
+    left: 40%;
+    font-size: 30px;
+}
+
+.H2{
+    position: absolute;
+    top: 170px;
+    left: 42%;
+    font-size: 30px;
+}
+
+h3{
+    position: absolute;
+    top: 220px;
+    left: 35%;
+    height: 40px;
+    width: 330px;
+}

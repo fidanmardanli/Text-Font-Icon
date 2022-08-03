@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+
+.class1{
+    background-color: rgb(137, 91, 6);
+    width: 100%;
+    height: 300px;
+}
+
+h1{
+    position: absolute;
+    top: 150px;
+    left: 32%;
+}
+
+.H1{
+    position: absolute;
+    top: 318px;
+    left: 33%;
+    
+   
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
+
+.H2{
+    position: absolute;
+    top: 318px;
+    left: 40%;
+    
+}
+
+.H3{
+    position: absolute;
+    top: 318px;
+    left: 46%;
+    
+}
+
+.H4{
+    position: absolute;
+    top: 318px;
+    left: 56%;
+    
+}
+
+.class2{
+    background-color: rgb(219, 202, 114);
+    width: 100%;
+    height: 268px;
+}
+
+h2{
+    position: absolute;
+    top: 350px;
+    
+    
+}
+
+.H5{
+    position: absolute;
+    top: 385px;
+    color: rgb(148, 70, 34);
+}
+
+.H6{
+    position: absolute;
+    top: 410px;
+    color: rgb(148, 70, 34);
+}
+
+.H7{
+    position: absolute;
+    top: 435px;
+    
+}
+
+.fa-solid{
+    position: absolute;
+    top: 435px;
+    left: 27%;
+}
+
+
+
